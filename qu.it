@@ -1,0 +1,47 @@
+accountExist : Chay yupayqa kachkanñam,
+accountInvalid : Ama hina kaspa, allin yupay sutita qillqay
+accountMailHostBan : Kay dominiomanta correo hark'asqa qillqakuyman
+accountTooLong : Cuenta ancha unay
+agree : Uyakuy
+captchaClick : Imahinapi $ ñit'iy
+captchaImage : Captcha Imagen
+checkSpam : Ama qunqaychu spam correo cajata qhaway
+clickSignIn : Kaypi ñit'iy riqsichinaykipaq
+errCode : Chiqaqchay chikuqa pantaymi icha tukusqañam
+enterCode : Qillqasqa mayqin chiqaqchay codigo chaskisqayki
+loading : Cargando
+mail : Correo
+needUserAgreement : Ama hina kaspa ari ñiy rimanakuy
+notRecv : Mana chaskisqachu ?
+or : utaq
+password : Kichana
+phone : Telefono
+refresh : Musuqyachiy
+resend : Kaypi ñit'iy yapamanta apachiy
+resetPassword : Yaykuna rimata kutichiy
+setPassword : Yaykuna rimay churay
+signIn : Sign
+signUp : Qillqakuy
+userAgreement : Usuario Acuerdo
+verificationCode : Chiqapchay qillqa
+wait : Ama hina kaspa suyay
+verificationMailResended : Chiqaqchay Correo nisqamanta musuqmanta apachisqa
+createAccount : Musuq yupayta ruway
+name : Suti
+logout : Lloqsiy
+errAccountOrPassword : Mana allin yupay utaq yaykuna rima
+setDone : Allinta churay
+confirm : Yuyachiy
+config : Config
+switchUser : Usuario cambiar
+addAccount : Yapay yupay
+exited : Qillqasqa lluqsiy
+remove : Qichuy
+exitAll : Lloqsiy Llapan yupaykuna
+rmAll : Llapan yupaykunata hurquy
+enter : Yaykuy
+invalid : Mana allin
+oldMail : Original Correo
+newMail : Musuq Correo
+modifyMail : Correota tikray
+used : Ñam huk yupaypa llamk'achisqanña

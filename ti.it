@@ -1,0 +1,47 @@
+accountExist : እቲ ጸብጻብ ድሮ ኣሎ፣
+accountInvalid : በጃኹም ቅኑዕ ናይ ኣካውንት ስም ኣእትዉ
+accountMailHostBan : እዚ ናይ ዶሜይን ፖስታ ንኽምዝገብ ተኣጊዱ
+accountTooLong : ኣካውንት ኣዝዩ ነዊሕ
+agree : ተስማዕማዕ
+captchaClick : ኣብቲ ምስሊ $ ጠውቕ ።
+captchaImage : ካፕትቻ ምስሊ
+checkSpam : ኣይትረስዑ ኣብቲ ናይ ስፓም ፖስታ ሳጹን ምፍታሽ
+clickSignIn : Signin ኣብዚ ጠውቑ
+errCode : እቲ ናይ ምርግጋጽ ኮድ ጌጋ ወይ ግዜኡ ዝሓለፎ እዩ
+enterCode : እቲ ዝረኸብካዮ ናይ ምርግጋጽ ኮድ ኣእቱ
+loading : ይጽዕን ኣሎ
+mail : ፖስታ
+needUserAgreement : ስምምዕ ክትሰማምዑሉ ብትሕትና
+notRecv : ኣይተቐበለን ?
+or : ወይ
+password : መሕለፊ ቓል
+phone : ስልኪ
+refresh : ሪፍረሽ
+resend : ዳግማይ ንምልኣኽ ኣብዚ ጠውቑ
+resetPassword : ዳግማይ ምትካል ምልክት ቃል
+setPassword : ምልክት ቃል ኣቐምጥ
+signIn : ምልክት
+signUp : ምዝገባ
+userAgreement : ናይ ተጠቃሚ ስምምዕነት
+verificationCode : ናይ ምርግጋጽ ሕጊ
+wait : በጃኹም ተጸበዩ
+verificationMailResended : መረጋገጺ ፖስታ ዳግማይ መልእኽቲ
+createAccount : ሓድሽ ኣካውንት ምፍጣር
+name : ሽም
+logout : ሎግኣውት
+errAccountOrPassword : ዘይቅኑዕ ኣካውንት ወይ ምልክት ቃል
+setDone : ብዓወት ኣቐምጥ
+confirm : ኣረጋግፅ
+config : ኮንፊግ
+switchUser : ተጠቃሚ ስዊች
+addAccount : ኣካውንት ምውሳኽ
+exited : logged out
+remove : ኣወግድ
+exitAll : LOGOUT ኩሉ ኣካውንትታት
+rmAll : ኩሉ ኣካውንታት ኣወግድ
+enter : ኣእትው
+invalid : ዘይትኽክል
+oldMail : ኦርጅናል ፖስታ
+newMail : ሓድሽ ፖስታ
+modifyMail : መልእኽቲ ምቕያር
+used : ድሮ ብኻልእ ኣካውንት ዝጥቀመሉ ዘሎ

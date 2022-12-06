@@ -1,0 +1,47 @@
+accountExist : Tili on jo olemassa,
+accountInvalid : Anna kelvollinen tilin nimi
+accountMailHostBan : Tämän verkkotunnuksen posti kiellettiin ilmoittautumisen
+accountTooLong : Tili liian kauan
+agree : Olla samaa mieltä
+captchaClick : Napsauta $ kuvassa
+captchaImage : Captcha -kuva
+checkSpam : Älä unohda tarkistaa roskapostialaatikkoa
+clickSignIn : Napsauta tätä saadaksesi Signsin
+errCode : Vahvistuskoodi on virhe tai vanhentunut
+enterCode : Kirjoita saamasi varmennuskoodi
+loading : Ladataan
+mail : Posti
+needUserAgreement : Hyväksy sopimusta
+notRecv : Ei vastaanotettu ?
+or : tai
+password : Salasana
+phone : Puhelin
+refresh : virkistää
+resend : Napsauta tätä uudelleen
+resetPassword : Nollaa salasana
+setPassword : Aseta salasana
+signIn : Kirjaudu sisään
+signUp : Kirjaudu
+userAgreement : Käyttäjäsopimus
+verificationCode : Vahvistuskoodi
+wait : Odota
+verificationMailResended : Vahvistusposti asui
+createAccount : Luo uusi tili
+name : Nimi
+logout : Kirjautua ulos
+errAccountOrPassword : Väärä tili tai salasana
+setDone : Asettua menestyksekkäästi
+confirm : Vahvistaa
+config : Konfigurointi
+switchUser : Vaihda käyttäjää
+addAccount : Lisää tili
+exited : Kirjautunut ulos
+remove : Poista
+exitAll : Kirjaudu kaikki tileihin
+rmAll : Poista kaikki tilit
+enter : Tulla sisään
+invalid : Virheellinen
+oldMail : Alkuperäinen posti
+newMail : Uusi posti
+modifyMail : Muokata postia
+used : Toinen tili on jo käyttänyt

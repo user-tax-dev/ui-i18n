@@ -1,0 +1,47 @@
+accountExist : Rungula leri se a ri ri kona,
+accountInvalid : Hi kombela u nghenisa vito ra akhawunti leri tirhaka
+accountMailHostBan : Poso ya domain leyi yi yirisiwile ku tsarisa
+accountTooLong : Account yi lehe ngopfu
+agree : Pfumela
+captchaClick : Click $ eka xifaniso
+captchaImage : Xifaniso xa Captcha
+checkSpam : U nga rivali languta bokisi ra poso ra spam
+clickSignIn : Click laha ku ya eka Signan
+errCode : Khodi ya ku tiyisisa i xihoxo kumbe yi hundzeriwile hi nkarhi
+enterCode : Nghenisa khodi ya ku tiyisisa leyi u yi kumeke
+loading : Ku layicha
+mail : poso
+needUserAgreement : Hi kombela u pfumelelana na ntwanano
+notRecv : A swi amukeriwanga ?
+or : kumbe
+password : Phasiwedi
+phone : Riqingho
+refresh : Ku phyuphyisa
+resend : Click laha ku tlhela u rhundza
+resetPassword : Reset password
+setPassword : Seta password
+signIn : Xifaniso xa xikombiso
+signUp : Ku tsarisa
+userAgreement : Ntwanano wa Mutirhisi
+verificationCode : Khodi ya ku tiyisisa
+wait : Hi kombela u yimela
+verificationMailResended : Ku tiyisisiwa ka poso leyi tlheriseriweke endzhaku
+createAccount : Endla akhawunti leyintshwa
+name : Vito
+logout : Logout
+errAccountOrPassword : Akhawunti leyi nga riki yona kumbe phaswedi
+setDone : Seta hi ndlela leyi humelelaka
+confirm : Tiyisisa
+config : Xirhendzevutani xa Xirhendzevutani
+switchUser : Mutirhisi wa swiwitsi
+addAccount : Engetela akhawunti
+exited : Ku huma
+remove : Susa
+exitAll : Logout Tiakhawunti hinkwato
+rmAll : Susa tiakhawunti hinkwato
+enter : Nghena
+invalid : Vuhava
+oldMail : Poso ya xiviri
+newMail : Poso Leyintshwa
+modifyMail : Ku cinca poso
+used : Se yi tirhisiwa hi akhawunti yin’wana

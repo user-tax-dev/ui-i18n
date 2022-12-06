@@ -1,0 +1,47 @@
+accountExist : Kontot finns redan,
+accountInvalid : Ange ett giltigt kontonamn
+accountMailHostBan : Denna domän's Mail förbjöds för att registrera sig
+accountTooLong : Konto för länge
+agree : Hålla med
+captchaClick : Klicka på $ i bilden
+captchaImage : Captcha -bild
+checkSpam : Glöm inte Kontrollera spam -brevlådan
+clickSignIn : Klicka här för att signera
+errCode : Verifieringskoden är fel eller löpt ut
+enterCode : Ange verifieringskoden du fick
+loading : Läser in
+mail : Post
+needUserAgreement : Vänligen gå med på en överenskommelse
+notRecv : Inte fått ?
+or : eller
+password : Lösenord
+phone : Telefon
+refresh : Uppdatera
+resend : Klicka här för att skicka tillbaka
+resetPassword : Återställ lösenord
+setPassword : Välj lösenord
+signIn : Logga in
+signUp : Bli Medlem
+userAgreement : Användaravtal
+verificationCode : Verifierings kod
+wait : Vänta
+verificationMailResended : Verifieringspost resended
+createAccount : Skapa nytt konto
+name : namn
+logout : Logga ut
+errAccountOrPassword : Fel konto eller lösenord
+setDone : Inställt
+confirm : Bekräfta
+config : Konfigurering
+switchUser : Byt användare
+addAccount : Lägg till konto
+exited : Utloggad
+remove : Ta bort
+exitAll : Logga ut alla konton
+rmAll : Ta bort alla konton
+enter : Stiga på
+invalid : Ogiltig
+oldMail : Originalpost
+newMail : Ny post
+modifyMail : Ändra post
+used : Redan används av ett annat konto

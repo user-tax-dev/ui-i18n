@@ -1,0 +1,47 @@
+accountExist : Akọọlẹ naa ti wa tẹlẹ,
+accountInvalid : Jọwọ tẹ orukọ iwe ipamọ to wulo kan
+accountMailHostBan : Wọn ti fi imeeli ranṣẹ ti a gbesele si iforukọsilẹ
+accountTooLong : Account ju
+agree : Gba
+captchaClick : Tẹ $ ninu aworan
+captchaImage : Aworan CAPTCA
+checkSpam : Maṣe gbagbe ṣayẹwo apoti ifiweranṣẹ Spam
+clickSignIn : Tẹ ibi lati fowo si
+errCode : Koodu ijerisi jẹ aṣiṣe tabi pari
+enterCode : Tẹ koodu ijẹrisi ti o gba
+loading : Ikojọpọ
+mail : Meeli
+needUserAgreement : Jọwọ gba adehun
+notRecv : Ko gba?
+or : tabi
+password : Ọrọ igbaniwọle
+phone : Foonu
+refresh : Sọọji
+resend : Tẹ ibi lati tun ṣe
+resetPassword : Tun ọrọ igbaniwọle Tun
+setPassword : Ṣeto ọrọ igbaniwọle
+signIn : Wọle
+signUp : Forukọsilẹ
+userAgreement : Adehun olumulo
+verificationCode : Kodu afimo
+wait : Jọwọ duro
+verificationMailResended : Mail Defication Mail
+createAccount : Ṣẹda akọọlẹ tuntun
+name : Orukọ
+logout : Aami ojo
+errAccountOrPassword : Aṣiṣe ti ko tọ tabi ọrọ igbaniwọle
+setDone : Ṣeto ni ifijišẹ
+confirm : Jẹrisi
+config : Atunto
+switchUser : Olumulo Yipada
+addAccount : Fi iroyin kun
+exited : Fifin jade
+remove : Yọkuro
+exitAll : Logout gbogbo awọn iroyin
+rmAll : Mu gbogbo awọn iroyin
+enter : Wọle
+invalid : Aifẹsẹmulẹ
+oldMail : Akọkọ meeli
+newMail : Mail tuntun
+modifyMail : Yiyipada meeli
+used : Ti lo tẹlẹ nipasẹ akọọlẹ miiran

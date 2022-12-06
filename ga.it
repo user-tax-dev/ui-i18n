@@ -1,0 +1,47 @@
+accountExist : Tá an cuntas ann cheana féin,
+accountInvalid : Iontráil ainm cuntais bailí le do thoil
+accountMailHostBan : Chuir post an fhearainn seo cosc ar shíniú
+accountTooLong : Cuntas ró -fhada
+agree : Bheith ag teacht le chéile
+captchaClick : Cliceáil $ san íomhá
+captchaImage : Íomhá Captcha
+checkSpam : Ná déan dearmad seiceáil ar an mbosca poist spam
+clickSignIn : Cliceáil anseo go Signin
+errCode : Is é an cód fíoraithe earráid nó imithe in éag
+enterCode : Iontráil an cód fíoraithe a fuair tú
+loading : Lódáil
+mail : Cuir sa phost
+needUserAgreement : Aontaigh an comhaontú le do thoil
+notRecv : Nach bhfuarthas?
+or : nó
+password : Pasfhocal
+phone : Glao gutháin a chur ar
+refresh : Athscrúdú a dhéanamh ar
+resend : Cliceáil anseo chun athsheoladh
+resetPassword : Pasfhocal athshocraithe
+setPassword : Socraigh pasfhocal
+signIn : Sínigh isteach
+signUp : Clarú
+userAgreement : Comhaontú úsáideoirí
+verificationCode : Cód fíorúcháin
+wait : Fán le do thoil
+verificationMailResended : Fíorú Ríomhphost a cuireadh in iúl
+createAccount : Cuntas nua a chruthú
+name : Ainmnigh
+logout : Logáil Amach
+errAccountOrPassword : Cuntas nó pasfhocal mícheart
+setDone : Socraigh go rathúil
+confirm : Daingnigh
+config : Cumraíocht
+switchUser : Athraigh Úsáideoir
+addAccount : Cuir cuntas leis
+exited : Logáilte amach
+remove : Bain amach
+exitAll : Logáil isteach gach cuntas
+rmAll : Bain gach cuntas
+enter : Cuir isteach
+invalid : Neamhbhailí
+oldMail : Post bunaidh
+newMail : Ríomhphost nua
+modifyMail : Athraigh an post
+used : A úsáideann cuntas eile cheana féin

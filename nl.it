@@ -1,0 +1,47 @@
+accountExist : Het account bestaat al,
+accountInvalid : Voer een geldige accountnaam in
+accountMailHostBan : De post van dit domein verboden zich aan te melden
+accountTooLong : Account te lang
+agree : Mee eens zijn
+captchaClick : Klik op $ in de afbeelding
+captchaImage : Captcha -afbeelding
+checkSpam : Vergeet niet de spam mailbox te controleren
+clickSignIn : Klik hier om te ondertekenen
+errCode : De verificatiecode is fout of verlopen
+enterCode : Voer de verificatiecode in die u hebt ontvangen
+loading : Bezig met laden
+mail : Mail
+needUserAgreement : Akkoord met de overeenkomst
+notRecv : Niet ontvangen ?
+or : of
+password : Wachtwoord
+phone : Telefoon
+refresh : Verversen
+resend : Klik hier om opnieuw te rennen
+resetPassword : Reset wachtwoord
+setPassword : Stel een wachtwoord in
+signIn : Log in
+signUp : Aanmelden
+userAgreement : gebruikersovereenkomst
+verificationCode : Verificatie code
+wait : Even geduld aub
+verificationMailResended : Verificatie Mail verzwigend
+createAccount : Creëer een nieuw account
+name : Naam
+logout : Uitloggen
+errAccountOrPassword : Onjuist account of wachtwoord
+setDone : Succesvol instellen
+confirm : Bevestigen
+config : Configuratie
+switchUser : Verander gebruiker
+addAccount : Account toevoegen
+exited : Uitgelogd
+remove : Verwijderen
+exitAll : Log uit alle accounts
+rmAll : Verwijder alle accounts
+enter : Binnenkomen
+invalid : Ongeldig
+oldMail : Originele e -mail
+newMail : Nieuwe e -mail
+modifyMail : Most wijzigen
+used : Al gebruikt door een ander account

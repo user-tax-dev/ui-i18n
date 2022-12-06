@@ -1,0 +1,47 @@
+accountExist : Akauntiyo yakhalapo kale,
+accountInvalid : Chonde lowetsani dzina lovomerezeka
+accountMailHostBan : Makalata a Domain Adutsi adaletsa kusaina
+accountTooLong : Akaunti yayitali kwambiri
+agree : Bvomera
+captchaClick : Dinani $ mu chithunzi
+captchaImage : Chithunzi cha Captcha
+checkSpam : Musaiwale kuyang'ana bokosi lamakalata
+clickSignIn : Dinani apa kuti zisaini
+errCode : Khodi yotsimikizira ndiyolakwika kapena kutha
+enterCode : Lowetsani nambala yotsimikizira yomwe mudalandira
+loading : Kutsitsa
+mail : Makarata
+needUserAgreement : Chonde vomerezani mgwirizano
+notRecv : Osalandiridwa?
+or : kapena
+password : Chawekha
+phone : Foni
+refresh : Yambiranso
+resend : Dinani apa kuti musinthe
+resetPassword : Bweretsani achinsinsi
+setPassword : Dikirani
+signIn : Lowani muakaunti
+signUp : Lowani
+userAgreement : Mgwirizano wa ogwiritsa ntchito
+verificationCode : Nambala yotsimikizira
+wait : Chonde dikirani
+verificationMailResended : Makalata otsimikizika
+createAccount : Pangani Akaunti Yatsopano
+name : Dzina
+logout : Logo lotuluka
+errAccountOrPassword : Akaunti Yolakwika kapena Chinsinsi
+setDone : Khalani bwino
+confirm : Vomereza
+config : Mtundu
+switchUser : Sinthani wogwiritsa ntchito
+addAccount : Onjezani Akaunti
+exited : Analowa
+remove : Chotsa
+exitAll : Kutulutsa Maakaunti Onse
+rmAll : Chotsani maakaunti onse
+enter : Lowa
+invalid : Wopunduka
+oldMail : Makalata oyambilira
+newMail : Makalata atsopano
+modifyMail : Sinthani makalata
+used : Kugwiritsidwa ntchito kale ndi akaunti ina

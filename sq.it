@@ -1,0 +1,47 @@
+accountExist : Llogaria tashmë ekziston,
+accountInvalid : Ju lutemi shkruani një emër të vlefshëm të llogarisë
+accountMailHostBan : Kjo postë e këtij domeni ndaloi të regjistrohej
+accountTooLong : Llogari shumë e gjatë
+agree : Pajtohem
+captchaClick : Klikoni $ në imazh
+captchaImage : Imazh captcha
+checkSpam : Mos harroni Kontrolloni kutinë postare të spamit
+clickSignIn : Klikoni këtu për të nënshkruar
+errCode : Kodi i verifikimit është gabim ose skadohet
+enterCode : Vendosni kodin e verifikimit që keni marrë
+loading : Ngarkesë
+mail : Postë
+needUserAgreement : Ju lutemi pajtohuni marrëveshja
+notRecv : Nuk është marrë?
+or : ose
+password : Fjalëkalim
+phone : Telefon
+refresh : Rifreskoj
+resend : Klikoni këtu për të rivendosur
+resetPassword : Rivendosni fjalëkalimin
+setPassword : Vendosni fjalëkalimin
+signIn : Hyni
+signUp : Regjistrim
+userAgreement : Marrëveshja e Përdoruesit
+verificationCode : Kodi i Verifikimit
+wait : Te lutem prit
+verificationMailResended : Posta e Verifikimit e Jepet
+createAccount : Hapni një llogari të re
+name : Emër
+logout : Shkyç
+errAccountOrPassword : Llogari ose fjalëkalim i pasaktë
+setDone : Vendos me sukses
+confirm : Konfirmoj
+config : Konfiguroj
+switchUser : Ndërroni përdoruesin
+addAccount : Shtoni Llogari
+exited : I dalë
+remove : Largoj
+exitAll : DOGOUT Të gjitha Llogaritë
+rmAll : Hiq të gjitha llogaritë
+enter : Fut
+invalid : I pavlefshëm
+oldMail : Postë origjinale
+newMail : Postë e re
+modifyMail : Modifikoni postën
+used : Përdoret tashmë nga një llogari tjetër

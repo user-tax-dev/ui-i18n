@@ -1,0 +1,47 @@
+accountExist : Das Konto ist bereits existiert,
+accountInvalid : Bitte geben Sie einen gültigen Kontonamen ein
+accountMailHostBan : Die Post dieser Domain wurde zur Anmeldung verboten
+accountTooLong : Konto zu lang
+agree : Zustimmen
+captchaClick : Klicken Sie im Bild $
+captchaImage : CAPTCHA Bild
+checkSpam : Vergessen Sie nicht, den Spam Mailbox zu überprüfen
+clickSignIn : Hier klicken um sich anzumelden
+errCode : Der Verifizierungscode ist fehlerhaft oder abgelaufen
+enterCode : Geben Sie den von Ihnen erhaltenen Bestätigungscode ein
+loading : Wird geladen
+mail : Post
+needUserAgreement : Bitte vereinbaren Sie die Vereinbarung
+notRecv : Nicht erhalten ?
+or : oder
+password : Passwort
+phone : Telefon
+refresh : Aktualisierung
+resend : Klicken Sie hier, um wieder zu senden
+resetPassword : Passwort zurücksetzen
+setPassword : Passwort festlegen
+signIn : Einloggen
+signUp : Anmeldung
+userAgreement : Nutzungsbedingungen
+verificationCode : Verifizierungs-Schlüssel
+wait : Warten Sie mal
+verificationMailResended : Überprüfungs Mail wurde neu
+createAccount : Neuen Account erstellen
+name : Name
+logout : Ausloggen
+errAccountOrPassword : Falsches Konto oder Passwort
+setDone : Erfolgreich einstellen
+confirm : Bestätigen
+config : Konfiguration
+switchUser : Benutzer wechseln
+addAccount : Konto hinzufügen
+exited : Abgemeldet
+remove : Entfernen
+exitAll : Melden Sie alle Konten ab
+rmAll : Entfernen Sie alle Konten
+enter : Eintreten
+invalid : Ungültig
+oldMail : Originalpost
+newMail : Neue Mail
+modifyMail : Mail ändern
+used : Bereits von einem anderen Konto verwendet

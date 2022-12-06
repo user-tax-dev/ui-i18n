@@ -1,0 +1,47 @@
+accountExist : Akawunti eriwo dda,
+accountInvalid : Nsaba oyingize erinnya lya akawunti entuufu
+accountMailHostBan : mail ya domain eno ewereddwa okwewandiisa
+accountTooLong : Akawunti empanvu nnyo
+agree : Okukkiriza
+captchaClick : Nywa ku $ mu kifaananyi
+captchaImage : Ekifaananyi kya Captcha
+checkSpam : Tewerabira kebera mu spam mailbox
+clickSignIn : Nyiga wano ku Signin
+errCode : Koodi y’okukakasa eba nsobi oba eggwaako
+enterCode : Yingiza koodi y'okukakasa gye wafuna
+loading : Okutikka
+mail : Mail
+needUserAgreement : Nsaba mukkiriziganye n'endagaano
+notRecv : Teyafunibwa ?
+or : oba
+password : Paasiwaadi
+phone : Essimu
+refresh : Okuzza obuggya
+resend : Nyiga wano okuddamu okusindikira
+resetPassword : Reset ekigambo ky'okuyingira
+setPassword : Teekawo ekigambo ky'okuyingira
+signIn : Signin
+signUp : Okwewandiisa
+userAgreement : Endagaano y'omukozesa
+verificationCode : Code y'okukakasa
+wait : Nsaba mulinde
+verificationMailResended : Okukakasa mail reseded
+createAccount : Tonda akawunti empya
+name : Erinnya
+logout : Logout
+errAccountOrPassword : Akawunti oba ekigambo ky'okuyingira ekikyamu
+setDone : Set bulungi
+confirm : Okukakasa
+config : Config
+switchUser : Switch Omukozesa
+addAccount : Add Akawunti
+exited : Okufuluma
+remove : Okujjamu
+exitAll : Logout Akawunti zonna
+rmAll : Ggyawo akawunti zonna
+enter : Okuyingira
+invalid : Kifu
+oldMail : Mail eyasooka
+newMail : mail empya
+modifyMail : Okukyusa mail
+used : Edda ekozesebwa akawunti endala

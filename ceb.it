@@ -1,0 +1,47 @@
+accountExist : Ang asoy naglungtad na,
+accountInvalid : Palihug pagsulud sa usa ka balido nga ngalan sa account
+accountMailHostBan : Kini nga mail sa domain nga gidili sa pag-signup
+accountTooLong : Dugay na ang account
+agree : Mouyon
+captchaClick : Pag-klik $ sa imahe
+captchaImage : Imahen sa CAPTCHA
+checkSpam : Ayaw kalimti nga susihon ang spam mailbox
+clickSignIn : Pag-klik dinhi sa Signin
+errCode : Ang verification code mao ang sayup o nawala
+enterCode : Pagsulud sa verification code nga imong nadawat
+loading : Pagkarga
+mail : Sulat
+needUserAgreement : Palihug magkauyon sa kasabutan
+notRecv : Wala nadawat ?
+or : o
+password : Pasword
+phone : Telepono
+refresh : Pagpabag-o
+resend : Pag-klik dinhi aron i-resend
+resetPassword : I-reset ang password
+setPassword : I-set ang password
+signIn : Tigsirdista
+signUp : Pag-signup
+userAgreement : Kasabutan sa Gumagamit
+verificationCode : Code sa Verification
+wait : Palihog hulat
+verificationMailResended : Ang pag-verify mail nga gibase sa mail
+createAccount : Paghimo bag-ong account
+name : Ngalan
+logout : Pag-logout
+errAccountOrPassword : Sayup nga Account o Password
+setDone : Malampuson nga Pag-set
+confirm : Sa pagmatuod sa
+config : Pakauyonan
+switchUser : Pag-itum sa switch
+addAccount : Idugang ang account
+exited : Ninggawas
+remove : Pulason
+exitAll : Logout ang tanan nga mga account
+rmAll : Kuhaa ang tanan nga mga account
+enter : Mosulod
+invalid : Baliwala
+oldMail : Orihinal nga Mail
+newMail : Bag-ong Mail
+modifyMail : Pag-usab sa Mail
+used : Na gigamit sa lain nga account

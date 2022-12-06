@@ -1,0 +1,47 @@
+accountExist : Есептік жазба бұрыннан бар,
+accountInvalid : Жарамды тіркелгі атын енгізіңіз
+accountMailHostBan : Бұл доменнің поштасы тіркелуге тыйым салынды
+accountTooLong : Шотты ұзақ
+agree : Келісу
+captchaClick : Суреттегі $ түймесін басыңыз
+captchaImage : CAPTCHA
+checkSpam : Спам пошта жәшігін ұмытпаңыз
+clickSignIn : Кіру үшін мына жерді басыңыз
+errCode : Тексеру коды қате немесе мерзімі өткен
+enterCode : Алынған тексеру кодын енгізіңіз
+loading : Тиеу
+mail : Почта
+needUserAgreement : Келісімді келісіңіз
+notRecv : Қабылданбады?
+or : немесе
+password : Пароль
+phone : Жәрдем
+refresh : Сергіту
+resend : Қайта жіберу үшін мына жерді басыңыз
+resetPassword : Құпия сөзді қалпына келтіріңіз
+setPassword : Құпия сөзді орнатыңыз
+signIn : Кіру
+signUp : Тіркелу
+userAgreement : Пайдаланушы келісімі
+verificationCode : Тексеру коды
+wait : Өтінемін күте тұрыңыз
+verificationMailResended : Тексеру хаттары қайта тірілді
+createAccount : Жаңа есептік жазба жасаңыз
+name : Есім
+logout : Шығу
+errAccountOrPassword : Дұрыс емес есептік жазба немесе пароль
+setDone : Сәтті орнатыңыз
+confirm : Растау
+config : Конфигурациялау
+switchUser : Қолданушыны ауыстыру
+addAccount : Аккаунт қосу
+exited : Шығу
+remove : Кетіру
+exitAll : Барлық есептік жазбалар
+rmAll : Барлық шоттарды алып тастаңыз
+enter : Кіру
+invalid : Ақиқат емес
+oldMail : Түпнұсқа пошта
+newMail : Жаңа пошта
+modifyMail : Поштаны өзгерту
+used : Басқа шот қолданған

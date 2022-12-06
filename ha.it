@@ -1,0 +1,47 @@
+accountExist : Asusun ya riga ya wanzu,
+accountInvalid : Da fatan za a shigar da sunan asusun
+accountMailHostBan : Wannan wasikar wasika ta dakatar da rajista
+accountTooLong : Asusun da yawa
+agree : Yarda da
+captchaClick : Danna $ a cikin hoton
+captchaImage : Hoton captcha
+checkSpam : Kar a manta duba akwatin gidan waya
+clickSignIn : Latsa nan don Signkin
+errCode : Lambar tabbatarwa ita ce kuskure ko ƙarewa
+enterCode : Shigar da lambar tabbatarwa da kuka karɓa
+loading : Saika saukarwa
+mail : Gidan waya
+needUserAgreement : Da fatan za a yarda yarjejeniya
+notRecv : Ba a karɓa ba?
+or : ko
+password : Kalmar bada iznin wucewa
+phone : Waya
+refresh : Kore gajiya
+resend : Latsa nan don maimaitawa
+resetPassword : Sake saita kalmar sirri
+setPassword : SSP
+signIn : Sa hannu
+signUp : Yi hannu
+userAgreement : Yarjejeniyar mai amfani
+verificationCode : Lambar tabbaci
+wait : Don Allah jira
+verificationMailResended : Tabbatar da wasikun adireshin
+createAccount : Ƙirƙiri sabon lissafi
+name : Suna
+logout : Logout
+errAccountOrPassword : Asusun da ba daidai ba ko kalmar sirri
+setDone : Saita cikin nasara
+confirm : Tabbata
+config : Haɗa
+switchUser : Sauya Mai amfani
+addAccount : Accountara lissafi
+exited : Fita daga
+remove : Motsa
+exitAll : Logout Duk Asusun
+rmAll : Cire duk asusun
+enter : Shiga
+invalid : Ba daidai ba
+oldMail : Na asali Mail
+newMail : Sabuwar Mail
+modifyMail : Ganyayyakin Mail
+used : An riga an yi amfani da shi ta hanyar wani asusu

@@ -1,0 +1,47 @@
+accountExist : A conta já existe,
+accountInvalid : Por favor, insira um nome de conta válido
+accountMailHostBan : As e -mails deste domínio foram proibidas para se inscrever
+accountTooLong : Conta por muito tempo
+agree : Aceita
+captchaClick : Clique em $ na imagem
+captchaImage : Imagem de captcha
+checkSpam : Não se esqueça de verifique a caixa de correio de spam
+clickSignIn : Clique aqui para entrar
+errCode : O código de verificação é erro ou expirado
+enterCode : Digite o código de verificação que você recebeu
+loading : Carregando
+mail : Correspondência
+needUserAgreement : Por favor, concorde contrato
+notRecv : Não recebido ?
+or : ou
+password : Senha
+phone : Telefone
+refresh : Atualizar
+resend : Clique aqui para reenviar
+resetPassword : Redefinir senha
+setPassword : Configurar senha
+signIn : Entrar
+signUp : Inscrever-se
+userAgreement : Termo de Acordo do Usuário
+verificationCode : Código de verificação
+wait : Por favor, aguarde
+verificationMailResended : Correio de verificação reendido
+createAccount : Criar nova conta
+name : Nome
+logout : Sair
+errAccountOrPassword : Conta incorreta ou senha
+setDone : Definido com sucesso
+confirm : confirme
+config : Config
+switchUser : Mudar de utilizador
+addAccount : Adicionar Conta
+exited : Desconectado
+remove : Remover
+exitAll : Faça logout em todas as contas
+rmAll : Remova todas as contas
+enter : Digitar
+invalid : Inválida
+oldMail : Correio original
+newMail : Novo correio
+modifyMail : Modificar correio
+used : Já usado por outra conta

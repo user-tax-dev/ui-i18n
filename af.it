@@ -1,0 +1,47 @@
+accountExist : Die rekening bestaan reeds,
+accountInvalid : Voer asseblief 'n geldige rekeningnaam in
+accountMailHostBan : Die pos van hierdie domein verbied om aan te meld
+accountTooLong : Rekening te lank
+agree : Ooreenstem
+captchaClick : Klik $ in die prent
+captchaImage : Captcha -beeld
+checkSpam : Moenie vergeet nie, kyk na die spam -posbus
+clickSignIn : Klik hier om aan te teken
+errCode : Die verifikasiekode is fout of verval
+enterCode : Voer die verifikasiekode in wat u ontvang het
+loading : Laai
+mail : Pos
+needUserAgreement : Stem asseblief ooreenkoms in
+notRecv : Nie ontvang ?
+or : of
+password : Wagwoord
+phone : Foon
+refresh : Verfris
+resend : Klik hier om weer te stuur
+resetPassword : Herstel wagwoord
+setPassword : Stel wagwoord in
+signIn : Seld
+signUp : Teken aan
+userAgreement : Gebruikersooreenkoms
+verificationCode : Verifiëringskode
+wait : Wag asseblief
+verificationMailResended : Verifikasie -pos is weergegee
+createAccount : Skep nuwe rekening
+name : Naam
+logout : Teken uit
+errAccountOrPassword : Verkeerde rekening of wagwoord
+setDone : Stel suksesvol op
+confirm : Bevestig
+config : Opkonfigureer
+switchUser : Skakel gebruiker oor
+addAccount : Voeg rekening
+exited : Uitgeteken
+remove : Verwyder
+exitAll : UITLEG ALLE REKENINGE
+rmAll : Verwyder alle rekeninge
+enter : Ingaan
+invalid : Ongeldig
+oldMail : Oorspronklike pos
+newMail : Nuwe pos
+modifyMail : Verander pos
+used : Reeds deur 'n ander rekening gebruik

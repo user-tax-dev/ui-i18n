@@ -1,0 +1,47 @@
+accountExist : Konto on juba olemas,
+accountInvalid : Sisestage kehtiv konto nimi
+accountMailHostBan : Selle domeeni kiri keelas registreerumiseks
+accountTooLong : Konto liiga pikk
+agree : Nõustuma
+captchaClick : Klõpsake pildil $
+captchaImage : Captcha pilt
+checkSpam : Ärge unustage, et kontrollige rämpsposti postkasti
+clickSignIn : Klõpsake siin, et allkirjastada
+errCode : Kinnituskood on viga või aegunud
+enterCode : Sisestage saadud kinnituskood
+loading : Laadimine
+mail : Post
+needUserAgreement : Palun nõustuge leping
+notRecv : Ei saanud ?
+or : või
+password : Parool
+phone : Telefon
+refresh : Värskendama
+resend : Klõpsake siin, et taasalustada
+resetPassword : Lähtestage parool
+setPassword : Määra parool
+signIn : Logi sisse
+signUp : Registreeri
+userAgreement : Kasutajaleping
+verificationCode : Kinnituskood
+wait : Palun oota
+verificationMailResended : Kinnituspost taasalustati
+createAccount : Loo uus konto
+name : Nimetus
+logout : Logi välja
+errAccountOrPassword : Vale konto või parool
+setDone : Edukalt seadistama
+confirm : Kinnitama
+config : Konfiguratsioon
+switchUser : Vaheta kasutajat
+addAccount : Lisada konto
+exited : Välja logitud
+remove : Eemaldama
+exitAll : Logi kõik kontod
+rmAll : Eemaldage kõik kontod
+enter : Sisenema
+invalid : Kehtetu
+oldMail : Originaalpost
+newMail : Uus post
+modifyMail : Modifitseerima posti
+used : Kasutab juba mõni teine konto

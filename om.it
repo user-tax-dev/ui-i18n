@@ -1,0 +1,47 @@
+accountExist : Herreega duraan jira,
+accountInvalid : Mee maqaa herregaa sirrii ta'e galchi
+accountMailHostBan : Poostaa domeenii kanaa galmaa'uuf dhorkame
+accountTooLong : Herrega garmalee dheeraa
+agree : Waliigaluu
+captchaClick : Fakkii keessaa $ cuqaasaa
+captchaImage : Fakkii Kaaptchaa
+checkSpam : Hin dagatinaa saanduqa ergaa spam ilaalaa
+clickSignIn : Mallattoodhaaf as tuqi
+errCode : Koodiin mirkaneessuu dogongora ykn yeroon isaa darbeera
+enterCode : Koodii mirkaneessaa argatte galchi
+loading : Loading
+mail : Poostaa
+needUserAgreement : Mee waliigaltee irratti walii galuu
+notRecv : Hin fudhatamne ?
+or : yookaan
+password : Jecha iccitii
+phone : Bilbila
+refresh : Haaromsa
+resend : Irra deebiin erguuf as tuqi
+resetPassword : Jecha icciitii irra deebi'ii kaa'i
+setPassword : Jecha icciitii saagi
+signIn : Mallattoo
+signUp : Mallattoo
+userAgreement : Waliigaltee Fayyadamtootaa
+verificationCode : Koodii Mirkaneessaa
+wait : Mee eegaa
+verificationMailResended : Poostaa Mirkaneessaa Irra Deebiin Itti Fufe
+createAccount : Herrega haaraa uumuu
+name : Maqaa
+logout : Ba'uu
+errAccountOrPassword : Herrega ykn jecha icciitii sirrii hin taane
+setDone : Milkaa'inaan saagi
+confirm : Mirkaneessuu
+config : Qindeessaa
+switchUser : Fayyadamaa Jijjiiri
+addAccount : Herrega itti dabali
+exited : Logged out
+remove : Irraa kaasuu
+exitAll : Herrega hunda ba'i
+rmAll : Herrega hunda haqi
+enter : Seenuu
+invalid : Fudhatama kan hinqabne
+oldMail : Ergaa jalqabaa
+newMail : Ergaa haaraa
+modifyMail : Ergaa fooyyessa
+used : Duraan akkaawuntii biraatiin fayyadame

@@ -1,0 +1,47 @@
+accountExist : Уліковы запіс ужо існуе,
+accountInvalid : Калі ласка, увядзіце сапраўднае імя ўліковага запісу
+accountMailHostBan : Пошта гэтага дамена забаронена падпісацца
+accountTooLong : Уліковы запіс занадта доўга
+agree : Пагаджацца
+captchaClick : Націсніце $ на малюнку
+captchaImage : Капча -малюнак
+checkSpam : Не забудзьцеся праверце паштовую скрыню для спаму
+clickSignIn : Націсніце тут, каб прывесці
+errCode : Код праверкі - памылка альбо скончылася
+enterCode : Увядзіце атрыманы, які вы атрымалі
+loading : Загрузка
+mail : Пошта
+needUserAgreement : Калі ласка, пагадзіцеся з пагадненнем
+notRecv : Не атрымаў ?
+or : або
+password : Пароль
+phone : Тэлефон
+refresh : Асвяжаць
+resend : Націсніце тут, каб паўтарыць
+resetPassword : Скінуць пароль
+setPassword : Усталюйце пароль
+signIn : Увайсці
+signUp : Зарэгістравацца
+userAgreement : Дагавор карыстальніка
+verificationCode : Код верыфікацыі
+wait : Калі ласка пачакай
+verificationMailResended : Пастаноўная пошта праверкі
+createAccount : Стварыце новы ўліковы запіс
+name : Імя
+logout : У сістэму
+errAccountOrPassword : Няправільны ўліковы запіс або пароль
+setDone : Усталюйце паспяхова
+confirm : Пацвярджаць
+config : Наладжваць
+switchUser : Пераключыце карыстальнік
+addAccount : Дадаць уліковы запіс
+exited : Высечаны
+remove : Выдаляць
+exitAll : Увайдзіце ўсе ўліковыя запісы
+rmAll : Выдаліце ўсе рахункі
+enter : Уваходзіць
+invalid : Негрунтоўны
+oldMail : Арыгінальная пошта
+newMail : Новая пошта
+modifyMail : Змяніць пошту
+used : Ужо выкарыстоўваецца іншы ўліковы запіс

@@ -1,0 +1,47 @@
+accountExist : Akɔntabubua li xoxo,
+accountInvalid : Taflatse ŋlɔ akɔntabubu ƒe ŋkɔ si sɔ
+accountMailHostBan : Woxe mɔ ɖe domenyinyi sia ƒe mail nu be wòaŋlɔ ŋkɔ
+accountTooLong : Akɔntabuƒe didi akpa
+agree : Lɔ̃ ɖe edzi
+captchaClick : Zi $ dzi le nɔnɔmetata la me
+captchaImage : Captcha ƒe nɔnɔmetata
+checkSpam : Mègaŋlɔ be nàkpɔ spam mailbox la o
+clickSignIn : Zi afisia dzi be nàde asi ete
+errCode : Verification code la nye vodada alo eƒe ɣeyiɣia wu enu
+enterCode : Ŋlɔ kpeɖodzinya si nèxɔ la ɖe eme
+loading : agbatsɔtsɔ
+mail : Mail
+needUserAgreement : Taflatse milɔ̃ ɖe nubabla dzi
+notRecv : Womexɔe o ?
+or : alo
+password : Safuinya
+phone : Kaƒomɔ
+refresh : Gbɔdzɔe
+resend : Zi afisia dzi be nàgbugbɔ aɖo
+resetPassword : Gbugbɔ ɖo nyagbe ɣaɣla la ɖe ɖoɖo nu
+setPassword : Ðo nyagbe ɣaɣla
+signIn : Signin
+signUp : De asi agbalẽ te
+userAgreement : Zãla ƒe Nubabla
+verificationCode : Kpeɖodzinyawo ƒe Kpeɖodzi
+wait : Taflatse lala
+verificationMailResended : Verification Mail Resended
+createAccount : Wɔ akɔntabubu yeye
+name : Ŋkɔ
+logout : Logout
+errAccountOrPassword : Akɔntabubu alo nyagbe si mesɔ o
+setDone : Ðoe dzidzedzetɔe
+confirm : Ɖo kpe edzi
+config : Config
+switchUser : Trɔ zãla
+addAccount : Tsɔ akɔntabubu kpee
+exited : Woge ɖe eme
+remove : Ɖee le eme
+exitAll : Logod katã ƒe akɔntabubuwo
+rmAll : Ðe akɔntabubuwo katã ɖa
+enter : Geɖe eme
+invalid : Mesɔ o
+oldMail : Gbãtɔ ƒe posu
+newMail : Mail Yeye
+modifyMail : Trɔ asi le lɛtawo ŋu
+used : Account bubu zãnɛ xoxo

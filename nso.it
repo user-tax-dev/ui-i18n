@@ -1,0 +1,47 @@
+accountExist : Pego e šetše e le gona,
+accountInvalid : Hle tsenya leina la akhaonto leo le šomago
+accountMailHostBan : Poso ya domain ye e ileditšwe go ingwadiša
+accountTooLong : Akhaonto nako e telele kudu
+agree : Dumela
+captchaClick : Tobetsa $ ka setšoantšo
+captchaImage : Setšoantšo sa Captcha
+checkSpam : O se ke wa lebala hlahloba lebokose la poso la spam
+clickSignIn : Tobetsa mo go saena
+errCode : Khoutu ya netefatšo ke phošo goba e fedile
+enterCode : Tsenya khoutu ya netefatšo yeo o e amogetšego
+loading : Go Laetša
+mail : Poso
+needUserAgreement : Ke kgopela gore o dumelelane le tumelelano
+notRecv : Ga se ya amogelwa ?
+or : goba
+password : Phasewete
+phone : Mogala
+refresh : Laboša
+resend : Tobetsa mo go resend
+resetPassword : Seta gape phasewete
+setPassword : Seta phasewete
+signIn : Signin
+signUp : Signup
+userAgreement : Tumelelano ya Modiriši
+verificationCode : Khoutu ya netefatšo
+wait : Ke kgopela le eme
+verificationMailResended : Netefatšo poso resended resended
+createAccount : Hlama akhaonto e mpsha
+name : Leina
+logout : Go tšwa ka ntle
+errAccountOrPassword : Akhaonto goba phasewete ye e fošagetšego
+setDone : Beakanya ka katlego
+confirm : Tiišetša
+config : Config
+switchUser : Switch mosebedisi
+addAccount : Oketša akhaonto
+exited : E tšwetšwe ka ntle
+remove : Tloša
+exitAll : Logout Diakhaonto ka Moka
+rmAll : Tlosa diakhaonto tsohle
+enter : Tsena
+invalid : Sego ya makgonthe
+oldMail : Poso ya mathomo
+newMail : Poso e Ntšhwa
+modifyMail : Fetoša poso
+used : E šetše e dirišwa ke akhaonto e nngwe

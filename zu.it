@@ -1,0 +1,47 @@
+accountExist : I-akhawunti isivele ikhona,
+accountInvalid : Sicela ufake igama le-akhawunti elivumelekile
+accountMailHostBan : Imeyili yale Domain ivalwe ukusayina
+accountTooLong : I-akhawunti isikhathi eside kakhulu
+agree : Vumelana
+captchaClick : Chofoza u- $ esithombeni
+captchaImage : Isithombe seCAPTCHA
+checkSpam : Ungakhohlwa hlola ibhokisi leposi le-Spam
+clickSignIn : Chofoza lapha ukuze ungene ngemvume
+errCode : Ikhodi yokuqinisekisa iyiphutha noma iphelelwe yisikhathi
+enterCode : Faka ikhodi yokuqinisekisa oyitholile
+loading : Ethwebula
+mail : Iposi
+needUserAgreement : Sicela uvumele isivumelwano
+notRecv : AKUTHOLWA?
+or : noma
+password : Igama lokuvunyelwa ukungena endaweni ethile
+phone : Ifoni
+refresh : Phumuza umzimba
+resend : Chofoza lapha ukuze uphinde uphinde
+resetPassword : Setha kabusha iphasiwedi
+setPassword : Setha Iphasiwedi
+signIn : Ngena ngemvume
+signUp : Bhalisela
+userAgreement : Isivumelwano Somsebenzisi
+verificationCode : Ikhodi yokuqinisekisa
+wait : Ngicela ulinde
+verificationMailResended : Imeyili yokuqinisekisa yanda
+createAccount : Dala i-akhawunti entsha
+name : Ibizo
+logout : Phuma
+errAccountOrPassword : I-akhawunti engalungile noma iphasiwedi
+setDone : Setha ngempumelelo
+confirm : Gcizelela
+config : Ukuzimisa
+switchUser : Shintsha umsebenzisi
+addAccount : Ngeza i-Akhawunti
+exited : Ungene ngemvume
+remove : Susa
+exitAll : Ngena wonke ama-akhawunti
+rmAll : Susa wonke ama-akhawunti
+enter : Ngena
+invalid : -Ngenamandla
+oldMail : Imeyili yoqobo
+newMail : Imeyili entsha
+modifyMail : Shintsha imeyili
+used : Isivele isetshenziswe ngenye i-akhawunti

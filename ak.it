@@ -1,0 +1,47 @@
+accountExist : Akontaabu no wɔ hɔ dedaw,
+accountInvalid : Yɛsrɛ wo kyerɛw akontaabu din a ɛfata
+accountMailHostBan : Saa domain yi mail a wɔabara sɛ wɔmfa nhyɛ ase
+accountTooLong : Akontaabu bere tenten dodo
+agree : Pene
+captchaClick : Klik $ wɔ mfonini no mu
+captchaImage : Captcha mfonini
+checkSpam : Mma wo werɛ mmfi sɛ hwɛ spam mailbox no
+clickSignIn : Klik ha na signin
+errCode : Verification code no yɛ mfomso anaasɛ ne bere atwam
+enterCode : Hyehyɛ verification code a wo nsa aka no
+loading : Nneɛma a wɔde gu mu
+mail : Mail
+needUserAgreement : Yɛsrɛ sɛ pene apam no so
+notRecv : Wonnyee ?
+or : anaasɛ
+password : Paswɛde
+phone : Fon
+refresh : Refresh
+resend : Klik ha na resend
+resetPassword : Reset password
+setPassword : Set password
+signIn : Signin
+signUp : Signup
+userAgreement : Ɔdefoɔ Apam
+verificationCode : Nsɛm a wɔka kyerɛ a ɛyɛ nokware
+wait : Yɛsrɛ sɛ twɛn
+verificationMailResended : Verification Mail Resended
+createAccount : Yɛ akontaabu foforo
+name : Din
+logout : Logout
+errAccountOrPassword : Akontaabu anaa asɛmfua a ɛnteɛ
+setDone : Set no yiye
+confirm : Si pi
+config : Config
+switchUser : Switch Ɔdefoɔ no
+addAccount : Fa akontaabu ka ho
+exited : Logged out
+remove : Yi
+exitAll : Loot akontaabu nyinaa
+rmAll : Yi akontaabu nyinaa fi hɔ
+enter : Wuram
+invalid : Ɛnni mu
+oldMail : mfitiase nkrataa a wɔde mena
+newMail : nkrataa foforo a wɔde mena
+modifyMail : Sesa mail
+used : Akontaabu foforo de adi dwuma dedaw

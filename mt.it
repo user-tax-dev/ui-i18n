@@ -1,0 +1,47 @@
+accountExist : Il-kont diġà jeżisti,
+accountInvalid : Jekk jogħġbok daħħal isem tal-kont validu
+accountMailHostBan : Il-posta ta 'dan id-dominju pprojbixxa li tiffirma
+accountTooLong : Kont twil wisq
+agree : Jaqblu
+captchaClick : Ikklikkja $ fl-immaġni
+captchaImage : Immaġni captcha
+checkSpam : Tinsiex iċċekkja l-kaxxa tal-posta tal-ispam
+clickSignIn : Ikklikkja hawn biex tiffirma
+errCode : Il-kodiċi tal-verifika huwa żball jew skadut
+enterCode : Daħħal il-kodiċi tal-verifika li rċevejt
+loading : Tagħbija
+mail : Posta
+needUserAgreement : Jekk jogħġbok taqbel ftehim
+notRecv : Ma rċevejtx?
+or : jew
+password : Password
+phone : Telefon
+refresh : Aġġorna
+resend : Ikklikkja hawn biex terġa 'tibda
+resetPassword : Irrisettja l-password
+setPassword : Issettja l-password
+signIn : Sign
+signUp : Irregistra
+userAgreement : Ftehim tal-Utent
+verificationCode : Kodiċi ta 'Verifika
+wait : Stenna
+verificationMailResended : Verifika tal-posta riseduta
+createAccount : Oħloq kont ġdid
+name : Isem
+logout : Oħroġ
+errAccountOrPassword : Kont jew password żbaljati
+setDone : Issettja b'suċċess
+confirm : Ikkonferma
+config : Konfigurazzjoni
+switchUser : Ibdel l-utent
+addAccount : Żid kont
+exited : Illoggjat
+remove : Neħħi
+exitAll : Logout il-kontijiet kollha
+rmAll : Neħħi l-kontijiet kollha
+enter : Daħħal
+invalid : Invalidu
+oldMail : Mail oriġinali
+newMail : Mail Ġdid
+modifyMail : Ibdel il-posta
+used : Diġà użat minn kont ieħor

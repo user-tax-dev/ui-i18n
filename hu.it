@@ -1,0 +1,47 @@
+accountExist : A számla már létezett,
+accountInvalid : Kérjük, írjon be egy érvényes fióknevet
+accountMailHostBan : Ennek a domain levele betiltott a regisztrációhoz
+accountTooLong : Túl hosszú számla
+agree : Egyetért
+captchaClick : Kattintson a $ kattintson a képen
+captchaImage : Captcha kép
+checkSpam : Ne felejtsd el, ellenőrizze a spam postafiókját
+clickSignIn : Kattintson ide a aláíráshoz
+errCode : Az ellenőrző kód hiba vagy lejárt
+enterCode : Írja be a kapott ellenőrző kódot
+loading : Betöltés
+mail : Posta
+needUserAgreement : Kérjük, fogadja el a megállapodást
+notRecv : Nem kapott ?
+or : vagy
+password : Jelszó
+phone : Telefon
+refresh : Frissítés
+resend : Kattintson ide az eladáshoz
+resetPassword : Jelszó visszaállítása
+setPassword : Állítson be jelszót
+signIn : Bejelentkezés
+signUp : Regisztrálj
+userAgreement : Felhasználói Szerződés
+verificationCode : Ellenőrző kód
+wait : Kérlek várj
+verificationMailResended : Ellenőrzési levél áthelyezése
+createAccount : Új fiók létrehozása
+name : Név
+logout : Kijelentkezés
+errAccountOrPassword : Helytelen fiók vagy jelszó
+setDone : Sikeresen beállítva
+confirm : megerősít
+config : Konfigurációs
+switchUser : Felhasználót váltani
+addAccount : Fiók hozzáadása
+exited : Kilépett
+remove : Eltávolítás
+exitAll : Jelentkezzen az összes fiók
+rmAll : Távolítsa el az összes fiókot
+enter : Belép
+invalid : Érvénytelen
+oldMail : Eredeti posta
+newMail : Új levél
+modifyMail : Módosítsa a leveleket
+used : Egy másik fiók már használja

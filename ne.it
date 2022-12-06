@@ -1,0 +1,47 @@
+accountExist : खाता पहिले नै अस्तित्वमा छ,
+accountInvalid : कृपया एक मान्य खाता नाम प्रविष्ट गर्नुहोस्
+accountMailHostBan : यो डोमेन को मेल हस्ताक्षर गर्न प्रतिबन्धित
+accountTooLong : खाता धेरै लामो
+agree : सहमत हुनु
+captchaClick : छविमा $ $ क्लिक गर्नुहोस्
+captchaImage : क्याप्चा छवि
+checkSpam : स्पाम मेलबक्स जाँच नगर्नुहोस् जाँच गर्नुहोस्
+clickSignIn : साइन इन गर्न यहाँ क्लिक गर्नुहोस्
+errCode : प्रमाणिकरण कोड त्रुटि वा समयावधिएको छ
+enterCode : तपाईंले प्राप्त गर्नुभएको प्रमाणिकरण कोड प्रविष्ट गर्नुहोस्
+loading : लोडिरहेको
+mail : चिठी पत्र
+needUserAgreement : कृपया सम्झौता सम्झनुहोस्
+notRecv : प्राप्त भएको छैन?
+or : अथवा
+password : संकेत शब्द
+phone : फोन
+refresh : ताजा गर्नु
+resend : यहाँ वर्णन गर्न यहाँ क्लिक गर्नुहोस्
+resetPassword : पासवर्ड रिसेट
+setPassword : पासवर्ड सेट गर्नुहोस्
+signIn : सिट्नु
+signUp : साइन अप
+userAgreement : प्रयोगकर्ता सम्झौता
+verificationCode : प्रमाणिकरण कोड
+wait : कृपया पर्खनुहोस्
+verificationMailResended : प्रमाणिकरण मेल पुनर्स्थापित गरियो
+createAccount : नयाँ खाता सिर्जना गर्नुहोस्
+name : नाम
+logout : बाहिर निस्कनु
+errAccountOrPassword : गलत खाता वा पासवर्ड
+setDone : सफलतापूर्वक सेट गर्नुहोस्
+confirm : पक्का गर्नु
+config : विलकरण
+switchUser : सहयोग व्यक्तिले
+addAccount : खाता थप्नुहोस्
+exited : लगइन बाहिर
+remove : हटाउनु
+exitAll : सबै खाताहरू लगआउट गर्नुहोस्
+rmAll : सबै खाताहरू हटाउनुहोस्
+enter : प्रवेश गर्नु
+invalid : अमान्य
+oldMail : मौलिक मेल
+newMail : नया कर्मचारी
+modifyMail : मेल परिमार्जन गर्नुहोस्
+used : पहिले नै अर्को खाता द्वारा प्रयोग गरीएको छ

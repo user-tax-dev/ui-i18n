@@ -1,0 +1,47 @@
+accountExist : Akun parantos aya,
+accountInvalid : Punten lebetkeun nami akun anu sah
+accountMailHostBan : Surat domain ieu dilarang pikeun signup
+accountTooLong : Akun panjang teuing
+agree : Satuju
+captchaClick : Pencét $ dina gambar
+captchaImage : Gambar CAPTCHA
+checkSpam : Tong hilap pariksa kotak surat spam
+clickSignIn : Pencét di dieu pikeun signin
+errCode : Kode Verifikasi mangrupikeun kasalahan atanapi kadaluwarsa
+enterCode : Lebetkeun kode verifikasi anu anjeun tampi
+loading : Menaik
+mail : Surat
+needUserAgreement : Punten satuju
+notRecv : Teu ditampi?
+or : atawa
+password : Sandi
+phone : Telepon
+refresh : Nyegerkeun
+resend : Pencét di dieu pikeun dijalankeun
+resetPassword : Reset kecap konci
+setPassword : Setel sandi
+signIn : Daptar
+signUp : Daptar
+userAgreement : Perjangjian pangguna
+verificationCode : Kodeu vérifikasi
+wait : Punten antosan
+verificationMailResended : Surat Verifikasi Rapat
+createAccount : Jieun Akun Anyar
+name : Nami
+logout : Kaluar
+errAccountOrPassword : Akun anu salah atanapi kecap akses
+setDone : Diatur suksés
+confirm : Mastikeun
+config : Konigig
+switchUser : Pindah pangguna
+addAccount : Tambihkeun Akun
+exited : Log kaluar
+remove : Leungitkeun
+exitAll : Logout sadaya rekening
+rmAll : Miceun sadaya rekening
+enter : Ngalebetkeun
+invalid : Teu sah
+oldMail : Surat aslina
+newMail : Surat anyar
+modifyMail : Ngarobih surat
+used : Parantos dianggo ku akun sanés

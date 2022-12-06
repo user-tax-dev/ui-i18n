@@ -1,0 +1,47 @@
+accountExist : Ak'haonte e se e ntse e le teng,
+accountInvalid : Ka kopo kenya lebitso le nepahetseng la ak'haonte
+accountMailHostBan : Lengolo lena la domain le thibetse ho saena
+accountTooLong : Ak'haonte e telele haholo
+agree : Lumellana
+captchaClick : Tobetsa $ ka setšoantšo
+captchaImage : Setšoantšo sa CAPTCHA
+checkSpam : Se ke oa lebala lekola lebokose la mangolo a spam
+clickSignIn : Tobetsa mona ho Signin
+errCode : Khoutu ea netefatso ke phoso kapa e felile
+enterCode : Kenya khoutu ea netefatso eo u e fumaneng
+loading : Ho kenya
+mail : Lengolo-tsoibila
+needUserAgreement : Ka kopo lumellana ka ho lumella
+notRecv : Ha e amoheloe?
+or : kapa
+password : Password
+phone : Mohala
+refresh : Khatholla
+resend : Tobetsa mona ho rera
+resetPassword : Seta password
+setPassword : Beha phasewete
+signIn : Kena
+signUp : Ngolisa
+userAgreement : Tumellano ea mosebelisi
+verificationCode : Nomoro ea netefatso
+wait : Ke kopa u eme
+verificationMailResended : Remail mangolo a ntlafalitsoeng
+createAccount : Theha Ak'haonte e Ncha
+name : Lebitso
+logout : Logout
+errAccountOrPassword : Ak'haonte e fosahetseng kapa phasewete
+setDone : E behiloe ka katleho
+confirm : Netefatsa
+config : Config
+switchUser : Fetolela mosebelisi
+addAccount : Kenya Ak'haonte
+exited : Ka ntle
+remove : Tlosa
+exitAll : Kena ka li-account tsohle
+rmAll : Tlosa li-account tsohle
+enter : Kenya
+invalid : E sa sebetseng
+oldMail : Lengolo-tsoibila la mantlha
+newMail : Lengolo le lecha
+modifyMail : Fetola mangolo
+used : E se e sebelisitsoe ke ak'haonte e 'ngoe

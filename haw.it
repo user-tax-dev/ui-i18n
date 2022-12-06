@@ -1,0 +1,47 @@
+accountExist : Ua loaʻa i ka moʻokāki,
+accountInvalid : Eʻoluʻolu e hoʻokomo i kahi inoa inoa kūpono
+accountMailHostBan : Ua pāpāʻia kēia leka uila i kēia inoa
+accountTooLong : He lōʻihi lōʻihi
+agree : Aloaa
+captchaClick : Kaomi $ ma ke kiʻi
+captchaImage : Kiʻi captcha
+checkSpam : Mai poina e nānā i ka leka uila spam
+clickSignIn : Kaomi ma aneʻi e hoʻopaʻa inoa
+errCode : ʻO ka helu hōʻoia he halaʻole a pau paha
+enterCode : E hoʻokomo i ka code hōʻoia i loaʻa iāʻoe
+loading : KAUIHOA
+mail : Mail
+needUserAgreement : Eʻoluʻolu eʻae
+notRecv : ʻAʻole i loaʻa?
+or : Oole
+password : Hua huna
+phone : Kelepona
+refresh : Hoʻohālikelike
+resend : Kaomi ma aneʻi e hāʻawi
+resetPassword : Hōʻano hou i ka'ōlelo huna
+setPassword : E hoʻonohonoho i ka'ōlelo huna
+signIn : ʻeʻe
+signUp : Kau inoa
+userAgreement : Nā Kūlana Mea hoʻohana
+verificationCode : Code hōʻoia hōʻoia
+wait : Kali 'oe
+verificationMailResended : Ua hōʻikeʻia ka leka hōʻoia
+createAccount : E hana i ka waihona hou
+name : Inoa
+logout : Lele
+errAccountOrPassword : ʻO ka moʻokāki a me ka'ōlelo huna
+setDone : E hoʻokau maikaʻi
+confirm : E hōʻoia
+config : Kūlike
+switchUser : Hōʻike i ka mea hoʻohana
+addAccount : Hoʻohui i ka waihona
+exited : Ua komo
+remove : Wehe i ka
+exitAll : Hōʻike i nā moʻolelo āpau
+rmAll : Hoʻopau i nā moʻolelo āpau
+enter : Koho
+invalid : Kaumaha
+oldMail : Mail mail ka mail
+newMail : Mail
+modifyMail : Ka leka uila
+used : Ua hoʻohana muaʻia e kekahi moʻokāki

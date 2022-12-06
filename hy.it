@@ -1,0 +1,48 @@
+accountExist : Հաշիվն արդեն գոյություն ունի,
+accountInvalid : Մուտքագրեք հաշվի վավեր անուն
+accountMailHostBan : Այս տիրույթի փոստը արգելեց գրանցվել
+accountTooLong : Հաշիվը շատ երկար է
+agree : Համաձայնվել
+captchaClick : Կտտացրեք $ Image- ում
+captchaImage : CAPTCHA Image
+checkSpam : Մի մոռացեք ստուգել սպամ փոստարկղը
+clickSignIn : Կտտացրեք այստեղ, ստորագրելու համար
+errCode : Ստուգման ծածկագիրը սխալ է կամ լրացել է
+enterCode : Մուտքագրեք ձեր ստացված ստուգման կոդը
+loading : Բեռնում
+mail : Փոստ
+needUserAgreement : Խնդրում ենք համաձայնվել
+notRecv |
+  Չի ստացվել:
+or : կամ
+password : Գաղտնաբառ
+phone : Հեռախոս
+refresh : Թարմացնել
+resend : Կտտացրեք այստեղ, վերափոխելու համար
+resetPassword : Վերականգնել գաղտնաբառը
+setPassword : Սահմանել գաղտնաբառ
+signIn : Մուտք գործել
+signUp : Գրանցվել
+userAgreement : Օգտագործողի համաձայնագիր
+verificationCode : Ստուգման կոդ
+wait : Խնդրում ենք սպասել
+verificationMailResended : Վերականգնման փոստը վեր է
+createAccount : Ստեղծեք նոր հաշիվ
+name : Անուն
+logout : Տնկիլ
+errAccountOrPassword : Սխալ հաշիվ կամ գաղտնաբառ
+setDone : Սահմանեք հաջողությամբ
+confirm : Հաստատել
+config : Կազմաձեւ
+switchUser : Փոխեք օգտագործողը
+addAccount : Ավելացնել հաշիվ
+exited : Մուտք
+remove : Հեռացնել
+exitAll : Logout Բոլոր հաշիվները
+rmAll : Հեռացրեք բոլոր հաշիվները
+enter : Մուտք գործել
+invalid : Անվավեր
+oldMail : Բնօրինակ փոստ
+newMail : Նոր փոստ
+modifyMail : Փոփոխել փոստը
+used : Արդեն օգտագործվում է մեկ այլ հաշվով

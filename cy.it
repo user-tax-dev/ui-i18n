@@ -1,0 +1,47 @@
+accountExist : Mae'r cyfrif eisoes yn bodoli,
+accountInvalid : Rhowch enw cyfrif dilys
+accountMailHostBan : Gwaharddwyd post y parth hwn i arwyddo
+accountTooLong : Cyfrif yn rhy hir
+agree : Chydwela ’
+captchaClick : Cliciwch $ yn y ddelwedd
+captchaImage : Delwedd captcha
+checkSpam : Peidiwch ag anghofio gwirio'r blwch post sbam
+clickSignIn : Cliciwch yma i Signin
+errCode : Y cod gwirio yw gwall neu wedi dod i ben
+enterCode : Rhowch y cod gwirio a gawsoch
+loading : Lwythi
+mail : Phost
+needUserAgreement : Cytuno Cytundeb
+notRecv : Heb ei dderbyn?
+or : neu
+password : Gyfrinair
+phone : Ffôn
+refresh : Adfywiad
+resend : Cliciwch yma i ail -leoli
+resetPassword : Ailosod cyfrinair
+setPassword : Gosod Cyfrinair
+signIn : Mewngofnodi
+signUp : Cofrestru
+userAgreement : Cytundeb Defnyddiwr
+verificationCode : Cod Gwirio
+wait : Arhoswch os gwelwch yn dda
+verificationMailResended : Ail -werthu ail -bostio
+createAccount : Creu Cyfrif Newydd
+name : Henwem
+logout : Allgofnodi
+errAccountOrPassword : Cyfrif neu gyfrinair anghywir
+setDone : Gosod yn llwyddiannus
+confirm : Chadarnhasoch
+config : Ffurfwedden
+switchUser : Newid Defnyddiwr
+addAccount : Ychwanegu cyfrif
+exited : Allgofnodi
+remove : Godon
+exitAll : Allgofnodi pob cyfrif
+rmAll : Tynnwch yr holl gyfrifon
+enter : Ennon
+invalid : Annilys
+oldMail : Post gwreiddiol
+newMail : Post Newydd
+modifyMail : Addasu post
+used : A ddefnyddir eisoes gan gyfrif arall

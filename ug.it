@@ -1,0 +1,47 @@
+accountExist : بۇ ھېسابات ئاللىقاچان مەۋجۇت بولۇپ تۇرىدۇ,
+accountInvalid : ئىناۋەتلىك ھېسابات نامىنى كىرگۈزۈڭ
+accountMailHostBan : بۇ دائىرە ئۇچۇرى تىزىملىتىشى كېرەك
+accountTooLong : ھېسابات بەك ئۇزۇن
+agree : ماقۇل
+captchaClick : رەسىمدىكى $ نى چېكىڭ
+captchaImage : CAPTCHA رەسىمى
+checkSpam : ئەخلەت خەت ساندۇقىنى تەكشۈرۈڭ
+clickSignIn : تىزىملاتقاندا بۇ يەرنى چېكىڭ
+errCode : دەلىللەش كودى خاتالىق ياكى ۋاقتى توشقان
+enterCode : تاپشۇرۇۋالغان دەلىللەش كودىنى كىرگۈزۈڭ
+loading : يۈكلەۋاتىدۇ
+mail : خەت
+needUserAgreement : كېلىشىمگە قوشۇلۇڭ
+notRecv : تاپشۇرۇۋالمىدىڭىزمۇ?
+or : ياكى
+password : پارول
+phone : تېلېفون
+refresh : يېڭىلاش
+resend : بۇ يەرنى چېكىپ ئەسلىگە كەلتۈرۈڭ
+resetPassword : پارولنى ئەسلىگە كەلتۈرۈڭ
+setPassword : پارول بەلگىلەڭ
+signIn : ئىمزا
+signUp : Adisp
+userAgreement : ئىشلەتكۈچى كېلىشىمى
+verificationCode : دەلىللەش كودى
+wait : ساقلاپ تۇرۇڭ
+verificationMailResended : دەلىللەش بۇيرۇقى ئەسلىگە كەلتۈرۈلدى
+createAccount : يېڭى ھېسابات قۇر
+name : Name
+logout : چېكىنىش
+errAccountOrPassword : ھېسابات ياكى پارول خاتا
+setDone : مۇۋەپپەقىيەتلىك بېكىتىلدى
+confirm : جەزملەشتۈرۈڭ
+config : سەپلەڭ
+switchUser : ئىشلەتكۈچىنى ئالماشتۇرۇڭ
+addAccount : ھېسابات قوشۇڭ
+exited : تىزىمغا كىردى
+remove : چىقىرىۋېتىڭ
+exitAll : بارلىق ھېساباتلار
+rmAll : بارلىق ھېساباتلارنى ئۆچۈرۈڭ
+enter : Enter
+invalid : ئىناۋەتسىز
+oldMail : ئەسلى خەت
+newMail : يېڭى خەت
+modifyMail : خەتنى ئۆزگەرتىڭ
+used : ئاللىبۇرۇن باشقا ھېسابات تەرىپىدىن ئىشلىتىلگەن
